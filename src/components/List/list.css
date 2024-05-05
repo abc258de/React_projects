@@ -1,0 +1,23 @@
+.card{
+  /* background-color: aqua; */
+  width: 400px;
+  margin-top: 40px;
+  display: flex; 
+  justify-content: center;
+  margin-left: 600px;
+  border: 2px solid red;
+  color: green;
+}
+
+.card_body{
+  color: red; 
+}
+
+.list-group{
+  color: blue;
+  /* font-size: larger; */
+}
+
+.list-group-item {
+  color: purple;
+}

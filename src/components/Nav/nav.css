@@ -1,0 +1,62 @@
+body {
+  margin: 0px;
+}
+
+
+.navbar2 {
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 70px;
+  /* background-color: rgb(4, 7, 2);  */ 
+  background: linear-gradient(45deg, rgb(156, 14, 156), midnightblue);
+}
+
+.logo2 {
+  width: 150px;
+  height: 46px;
+}
+
+.logo2 img{
+  width: 100%;
+  margin-bottom: 10px;
+  /* margin-top: 10px; */
+  height: 46px;
+}
+
+
+.titles{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  font-size: 18px;
+  padding: 0;
+}
+
+.nav1 a{
+  color: white;
+  text-decoration: none;
+}
+
+.nav1 a:hover{
+  color:white;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.btnsignin{
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: forestgreen;
+  color: white;
+  padding: 5px 15px;
+  cursor: pointer;
+}
+
+.btnsignin a{
+  color: white;
+  text-decoration: none;
+}
+

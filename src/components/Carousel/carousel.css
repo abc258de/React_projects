@@ -1,0 +1,61 @@
+/* caroussel good */
+
+.carousel-image img {
+  width: 450px; 
+  height: 250px; 
+  /* object-fit: contain; Maintain aspect ratio and contain within the container */
+  object-fit: cover;
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 6px;
+}
+
+
+
+/* carousel 1 image transition */
+/* 
+.carousel-container {
+  width: 100%;
+  height: 300px; 
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel-content {
+  display: flex;
+  transition: transform 0.5s ease; /* Use CSS transition for smooth sliding effect
+}
+
+.carousel-item {
+  flex: 0 0 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.carousel-item-content {
+  text-align: center;
+}
+
+.carousel-item.active {
+  opacity: 1;
+}
+*/
+
+.carousel-control-next, .carousel-control-prev {
+background-color: blue;
+font-weight: bolder;
+border: 2px solid rgb(212, 17, 215);
+border-radius: 50%;
+margin-top: 150px;
+margin-bottom: 200px;
+width: 40px;
+height: 40px;
+margin-left: 20px;
+margin-right: 20px;
+}

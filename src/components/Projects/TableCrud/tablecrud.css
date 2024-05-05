@@ -1,0 +1,113 @@
+/* .App-header{
+  background-color: #282c34;
+} */
+
+table{
+  border: medium solid #6495ed; 
+  border-collapse: collapse; 
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+th{
+  font-family: monospace;
+  border: thin solid #6495ed;
+  width: 50%;
+  padding: 5px; 
+  background-color: #D0E3FA;
+  width: 140px;
+}
+
+td{
+  font-family: sans-serif; 
+  border: thin solid #6495ed;
+  width: 50%;
+  padding: 5px;
+  text-align: center;
+  background-color: white;
+}
+
+/* caption{
+  font-family: sans-serif;
+} */
+
+
+
+.butedit, .butdel, .butsave, .butcancel {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 8px;
+  margin-left: 6px;
+  padding: 0 5;
+  padding-bottom: 0px;
+   border: none;
+  /* border: 1px solid grey; */
+  border-radius: 5px;
+  width: 60px;
+} 
+
+.butedit{
+  background-color: #fad05a;
+  color: black;
+}
+
+.butdel{
+  background-color: rgb(252, 86, 86);
+  color: white;
+}
+
+.butsave{
+  background-color: #6495ed;
+  color: white;
+}
+
+.butcancel{
+  background-color: #525354;
+  color: white;
+}
+
+/* ------------------------------------------ */
+
+.wrapper_addnewcontact {
+  height: 180px;
+  background-color: #D0E3FA;
+  margin-bottom: 100px;
+}
+
+.addnewcontact {
+  /* background-color: rgb(245, 248, 196); */
+  display: flex;
+  flex-direction: column;
+  font-family: monospace;
+  width: 800px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+.addnewcontact h4{
+  padding-top: 15px;
+}
+
+.addnewcontact .input_contact{
+  width: 170px;
+  text-align: center;
+  font-family: monospace;
+  font-size: 16px;
+  color: black;
+  border: 1px solid black;
+  background-color: white;
+}
+
+.addnewcontact .butadd{
+  background-color: #1681ec;
+  color: white;
+  width: 55px;
+  height: 55px;
+  /* height: 30px; */
+  padding: 0 5 ;
+  border-radius: 50%;
+  margin-left: 35px;
+}

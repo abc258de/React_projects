@@ -1,0 +1,30 @@
+[
+  {
+    "id":2,
+    "fullName": "rodrigues",
+    "address": "porto",
+    "phoneNumber": 1234567,
+    "email": "rod@gmaiul.com"
+},
+{
+  "id":3,
+  "fullName": "nelton",
+  "address": "boston",
+  "phoneNumber": 123456789,
+  "email": "nel@gmaiul.com"
+},
+{
+  "id":4,
+  "fullName": "duponbt",
+  "address": "paris",
+  "phoneNumber": 12345678,
+  "email": "dup@gmaiul.com"
+},
+{
+  "id":5,
+  "fullName": "miser",
+  "address": "verona",
+  "phoneNumber": 12345678,
+  "email": "mis@gmaiul.com" 
+}
+]
