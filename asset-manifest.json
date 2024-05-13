@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/github.io/React_projects/static/css/main.e0cfd4cf.css",
+    "main.js": "/github.io/React_projects/static/js/main.732a0f20.js",
+    "static/media/image10.jpg": "/github.io/React_projects/static/media/image10.2c7863ce424a8bba8718.jpg",
+    "static/media/image5.jpg": "/github.io/React_projects/static/media/image5.8d326cd42946760da4b6.jpg",
+    "static/media/image4.jpg": "/github.io/React_projects/static/media/image4.3a971370ca6aa1a894f5.jpg",
+    "static/media/image7.jpg": "/github.io/React_projects/static/media/image7.702a558303a495dd707d.jpg",
+    "static/media/image8.jpg": "/github.io/React_projects/static/media/image8.dc27e54f97821360ae2d.jpg",
+    "static/media/contacts_list.png": "/github.io/React_projects/static/media/contacts_list.d19594d6b0a1938d3f5d.png",
+    "static/media/image2.jpg": "/github.io/React_projects/static/media/image2.3acb137db9f7852acdc8.jpg",
+    "static/media/image3.jpg": "/github.io/React_projects/static/media/image3.92d3d0c42fdd2c6a8965.jpg",
+    "static/media/Converter.png": "/github.io/React_projects/static/media/Converter.f7e3a8fbb890939b1b84.png",
+    "static/media/Table-CRUD.png": "/github.io/React_projects/static/media/Table-CRUD.56f5b4d0e8fdc2bc6fa9.png",
+    "static/media/image9.jpg": "/github.io/React_projects/static/media/image9.061e42f0a464abfee7eb.jpg",
+    "static/media/Buttons.png": "/github.io/React_projects/static/media/Buttons.67dfc2716d82a8054d7a.png",
+    "static/media/weather.png": "/github.io/React_projects/static/media/weather.31e3dbde9a25a6a17489.png",
+    "static/media/drag-drop.png": "/github.io/React_projects/static/media/drag-drop.a067484fbcad191d0e40.png",
+    "static/media/image12.jpg": "/github.io/React_projects/static/media/image12.4b987a73f3f5950eea2b.jpg",
+    "static/media/Calculator.png": "/github.io/React_projects/static/media/Calculator.ffe8ae67ba76edda93b5.png",
+    "static/media/image6.jpg": "/github.io/React_projects/static/media/image6.6ba69c3fddcee008e29c.jpg",
+    "index.html": "/github.io/React_projects/index.html",
+    "main.e0cfd4cf.css.map": "/github.io/React_projects/static/css/main.e0cfd4cf.css.map",
+    "main.732a0f20.js.map": "/github.io/React_projects/static/js/main.732a0f20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0cfd4cf.css",
+    "static/js/main.732a0f20.js"
+  ]
+}
