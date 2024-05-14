@@ -1,5 +1,5 @@
 
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Navigate } from 'react-router-dom';
 import Home from './components/Home/home';
 // import Liste from './components/List/contacts'; 
 // import Form from './components/Form/form'; 
@@ -42,6 +42,7 @@ function App() {
         <Route path='/Projects/Calculator' element={<Calculator/>}/> 
         <Route path='/Projects/DragDrop' element={<DragDrop/>}/> 
         {/* <Route path='/Projects/Converter' element={<Converter/>}/>  */}
+        <Route path="*" element={<Navigate to="/" />} />
 
 
       </Routes>
