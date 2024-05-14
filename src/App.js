@@ -1,5 +1,5 @@
 
-import { Routes, Route, Navigate } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import Home from './components/Home/home';
 // import Liste from './components/List/contacts'; 
 // import Form from './components/Form/form'; 
@@ -29,20 +29,20 @@ function App() {
       {/* it is always present which makes sense for the nav */}     
 
       <Routes>
-        <Route path='/' element={<Home/>}/>
+        <Route path='/React_projects/' element={<Home/>}/>
         {/* <Route path='/Form' element={<Form/>}/> */}
         {/* <Route path='/List' element={<Liste/>}/> */}
-        <Route path='/Carousel' element={<Carousel/>}/>
-        <Route path='/Projects' element={<Projects/>}/> 
+        <Route path='/React_projects/Carousel' element={<Carousel/>}/>
+        <Route path='/React_projects/Projects' element={<Projects/>}/> 
 
         {/* <Route path='/Projects/Buttons' element={<Buttons/>}/>  */}
-        <Route path='/Projects/TableCrud' element={<TableCrud/>}/> 
-        <Route path='/Projects/Weather' element={<Weather/>}/> 
-        <Route path='/Projects/Contacts' element={<Contacts/>}/> 
-        <Route path='/Projects/Calculator' element={<Calculator/>}/> 
-        <Route path='/Projects/DragDrop' element={<DragDrop/>}/> 
+        <Route path='/React_projects/Projects/TableCrud' element={<TableCrud/>}/> 
+        <Route path='/React_projects/Projects/Weather' element={<Weather/>}/> 
+        <Route path='/React_projects/Projects/Contacts' element={<Contacts/>}/> 
+        <Route path='/React_projects/Projects/Calculator' element={<Calculator/>}/> 
+        <Route path='/React_projects/Projects/DragDrop' element={<DragDrop/>}/> 
         {/* <Route path='/Projects/Converter' element={<Converter/>}/>  */}
-        <Route path="*" element={<Navigate to="/" />} />
+        {/* <Route path="*" element={<Navigate to="/" />} /> */}
 
 
       </Routes>

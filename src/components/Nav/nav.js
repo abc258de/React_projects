@@ -22,11 +22,11 @@ class Navigation extends PureComponent {
       <div className='navbar2'>
         <div className='logo2'><Link to='/'> <img src={reactlogo} alt='React Logo' /></Link></div>  
         <div className='titles'>
-          <div className='nav1'><Link to='/'>Home</Link></div>
+          <div className='nav1'><Link to='/React_projects/'>Home</Link></div>
           {/* <div className='nav1'><Link to='/Form'>Form</Link></div> */}
           {/* <div className='nav1'><Link to='/List'>List</Link></div> */}
-          <div className='nav1'><Link to='/Carousel'>Carousel</Link></div>
-          <div className='nav1'><Link to='/Projects'>Projects</Link></div>
+          <div className='nav1'><Link to='/React_projects/Carousel'>Carousel</Link></div>
+          <div className='nav1'><Link to='/React_projects/Projects'>Projects</Link></div>
 
 
         </div>
