@@ -18,7 +18,7 @@ class Home extends PureComponent {
 // const Home = () => {
     return (
       <div>
-        <h1 className="title">Welcome to our React Energizer</h1>
+        <h1 className="title">Welcome !!!! to our React Energizer</h1>
         <img src={'https://www.patterns.dev/img/reactjs/react-logo@3x.svg'} id='img_home'/> 
  
       </div> 
