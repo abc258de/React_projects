@@ -30,7 +30,7 @@ const Works = () => {
         <div className="container_h">
 
           <div className=''>
-            <Link to='/Projects/TableCrud'><img src={crud} alt='Tablecrud' /></Link>
+            <Link to='/React_projects/Projects/TableCrud'><img src={crud} alt='Tablecrud' /></Link>
           </div>  
                           
           <div className="description_container_h">
@@ -44,7 +44,7 @@ const Works = () => {
         <div className="container_h">
 
           <div className=''>
-            <Link to='/Projects/Weather'><img src={weather} alt='Weather' /></Link>
+            <Link to='/React_projects/Projects/Weather'><img src={weather} alt='Weather' /></Link>
           </div>  
                           
           <div className="description_container_h">
@@ -57,7 +57,7 @@ const Works = () => {
         <div className="container_h">
 
           <div className=''>
-            <Link to='/Projects/Contacts'><img src={contacts} alt='Tablecrud' /></Link> 
+            <Link to='/React_projects/Projects/Contacts'><img src={contacts} alt='Tablecrud' /></Link> 
           </div>  
                           
           <div className="description_container_h">
@@ -71,7 +71,7 @@ const Works = () => {
         <div className="container_v">
 
           <div className=''>
-            <Link to='/Projects/Buttons'><img src={buttons} alt='Buttons' /></Link>
+            <Link to='/React_projects/Projects/Buttons'><img src={buttons} alt='Buttons' /></Link>
           </div>  
                           
           <div className="description_container_v">
@@ -85,7 +85,7 @@ const Works = () => {
         <div className="container_h">
 
         <div className=''>
-          <Link to='/Projects/Converter'><img src={converter} alt='converter' /></Link>
+          <Link to='/React_projects/Projects/Converter'><img src={converter} alt='converter' /></Link>
         </div>  
                         
         <div className="description_container_h">
@@ -99,7 +99,7 @@ const Works = () => {
         <div className="container_h">
 
           <div className=''>
-            <Link to='/Projects/Calculator'><img src={calculator} alt='calculator' /></Link>
+            <Link to='/React_projects/Projects/Calculator'><img src={calculator} alt='calculator' /></Link>
           </div>  
                           
           <div className="description_container_h">
@@ -113,7 +113,7 @@ const Works = () => {
         <div className="container_h">
 
           <div className=''>
-            <Link to='/Projects/DragDrop'><img src={dragdrop} alt='dragdrop' /></Link>
+            <Link to='/React_projects/Projects/DragDrop'><img src={dragdrop} alt='dragdrop' /></Link>
           </div>  
                           
           <div className="description_container_h">
