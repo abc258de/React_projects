@@ -6,13 +6,13 @@ import Home from './components/Home/home';
 import Carousel from './components/Carousel/carousel'; 
 import Projects from './components/Projects/projects'; 
 
-import Buttons from './components/Projects/Buttons/buttons'; 
+// import Buttons from './components/Projects/Buttons/buttons'; 
 import TableCrud from './components/Projects/TableCrud/tablecrud'; 
 import Weather from './components/Projects/Weather/weather'; 
 import Contacts from './components/Projects/Contacts/contacts'; 
 import Calculator from './components/Projects/Calculator/calculator'; 
 import DragDrop from './components/Projects/DragDrop/App'; 
-import Converter from './components/Projects/Converter/App'; 
+// import Converter from './components/Projects/Converter/App'; 
 
 
 
@@ -35,13 +35,13 @@ function App() {
         <Route path='/Carousel' element={<Carousel/>}/>
         <Route path='/Projects' element={<Projects/>}/> 
 
-        <Route path='/Projects/Buttons' element={<Buttons/>}/> 
+        {/* <Route path='/Projects/Buttons' element={<Buttons/>}/>  */}
         <Route path='/Projects/TableCrud' element={<TableCrud/>}/> 
         <Route path='/Projects/Weather' element={<Weather/>}/> 
         <Route path='/Projects/Contacts' element={<Contacts/>}/> 
         <Route path='/Projects/Calculator' element={<Calculator/>}/> 
         <Route path='/Projects/DragDrop' element={<DragDrop/>}/> 
-        <Route path='/Projects/Converter' element={<Converter/>}/> 
+        {/* <Route path='/Projects/Converter' element={<Converter/>}/>  */}
 
 
       </Routes>
