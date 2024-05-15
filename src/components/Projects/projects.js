@@ -9,7 +9,7 @@ import calculator from './images/Calculator.png';
 import contacts from './images/contacts_list.png';
 import converter from './images/Converter.png';
 import dragdrop from './images/drag-drop.png';
-
+import calendar from './images/Calendar.png';
 
 
 
@@ -119,6 +119,19 @@ const Works = () => {
           <div className="description_container_h">
               <h4>DRAG & DROP</h4>
               <h6>Mechanism to order items through a drag & drop system. Need to install @dnd-kit/core @dnd-kit/sortable @dnd-kit/utilities</h6>
+          </div>
+        </div> 
+
+        {/* PROJECT 8 */}
+        <div className="container_h">
+
+          <div className=''>
+            <Link to='/React_projects/Projects/Calendar'><img src={calendar} alt='calendar' /></Link>
+          </div>  
+                          
+          <div className="description_container_h">
+              <h4>CALENDAR</h4>
+              <h6>Calendar imported from react-calendar. Not clear how to change CSS of button select has it has no class. </h6>
           </div>
         </div> 
 
