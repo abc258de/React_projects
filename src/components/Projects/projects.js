@@ -25,6 +25,19 @@ const Works = () => {
       <h2 className="title">React projects done in class 2024</h2>
 
       <div className='img-and-content'>
+
+        {/* PROJECT 8 */}
+        <div className="container_h">
+
+          <div className=''>
+            <Link to='/React_projects/Projects/Calendar'><img src={calendar} alt='calendar' /></Link>
+          </div>  
+                          
+          <div className="description_container_h">
+              <h4>CALENDAR</h4>
+              <h6>Calendar imported from react-calendar. Not clear how to change CSS of button select has it has no class. </h6>
+          </div>
+        </div> 
         
         {/* PROJECT 1 */}
         <div className="container_h">
@@ -122,25 +135,7 @@ const Works = () => {
           </div>
         </div> 
 
-        {/* PROJECT 8 */}
-        <div className="container_h">
-
-          <div className=''>
-            <Link to='/React_projects/Projects/Calendar'><img src={calendar} alt='calendar' /></Link>
-          </div>  
-                          
-          <div className="description_container_h">
-              <h4>CALENDAR</h4>
-              <h6>Calendar imported from react-calendar. Not clear how to change CSS of button select has it has no class. </h6>
-          </div>
-        </div> 
-
-
-
       </div>
-
-
-
 
     </div>
   );
