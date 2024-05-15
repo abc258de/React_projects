@@ -1,4 +1,6 @@
-
+div {
+  max-width:400px;
+}
 
 button.react-calendar__navigation__label {
   color:white;
