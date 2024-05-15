@@ -35,7 +35,7 @@ const Works = () => {
                           
           <div className="description_container_h">
               <h4>CALENDAR</h4>
-              <h6>Calendar imported from react-calendar. Not clear how to change CSS of button select has it has no class. </h6>
+              <h6>Calendar. Need to install react-calendar. Not clear how to change CSS of button select has it has no class. </h6>
           </div>
         </div> 
         
