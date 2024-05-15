@@ -12,6 +12,7 @@ import Weather from './components/Projects/Weather/weather';
 import Contacts from './components/Projects/Contacts/contacts'; 
 import Calculator from './components/Projects/Calculator/calculator'; 
 import DragDrop from './components/Projects/DragDrop/App'; 
+import Calendar from './components/Projects/Calendar/App'; 
 
 
 
@@ -41,6 +42,8 @@ function App() {
         <Route path='/React_projects/Projects/Contacts' element={<Contacts/>}/> 
         <Route path='/React_projects/Projects/Calculator' element={<Calculator/>}/> 
         <Route path='/React_projects/Projects/DragDrop' element={<DragDrop/>}/> 
+        <Route path='/React_projects/Projects/Calendar' element={<Calendar/>}/> 
+
       
         {/* <Route path="*" element={<Navigate to="/" />} /> */}
 
