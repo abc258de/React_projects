@@ -22,6 +22,11 @@ padding: 5px 5px;
   margin-top: 5px;
 } */
 
+#root .App div .react-calendar{
+  width: 350px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
 
 
 code {
