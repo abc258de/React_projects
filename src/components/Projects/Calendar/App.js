@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import './picker.css';
 import Picker from './Picker';
 
 
