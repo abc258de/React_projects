@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React_projects/static/css/main.c42986e1.css",
+    "main.css": "/React_projects/static/css/main.32c1c8ae.css",
     "main.js": "/React_projects/static/js/main.904f9444.js",
     "static/media/image10.jpg": "/React_projects/static/media/image10.2c7863ce424a8bba8718.jpg",
     "static/media/image5.jpg": "/React_projects/static/media/image5.8d326cd42946760da4b6.jpg",
@@ -21,11 +21,11 @@
     "static/media/Calculator.png": "/React_projects/static/media/Calculator.ffe8ae67ba76edda93b5.png",
     "static/media/image6.jpg": "/React_projects/static/media/image6.6ba69c3fddcee008e29c.jpg",
     "index.html": "/React_projects/index.html",
-    "main.c42986e1.css.map": "/React_projects/static/css/main.c42986e1.css.map",
+    "main.32c1c8ae.css.map": "/React_projects/static/css/main.32c1c8ae.css.map",
     "main.904f9444.js.map": "/React_projects/static/js/main.904f9444.js.map"
   },
   "entrypoints": [
-    "static/css/main.c42986e1.css",
+    "static/css/main.32c1c8ae.css",
     "static/js/main.904f9444.js"
   ]
 }
